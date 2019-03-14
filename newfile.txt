@@ -1,0 +1,3 @@
+This is the FoodTrucks app. Containerized to Docker Registry
+
+https://docker-curriculum.com/
